@@ -60,4 +60,3 @@ public class AvgGpa {
         System.exit(job.waitForCompletion(true) ? 0 : 1);
     }
 }
-
